@@ -30,10 +30,10 @@ enum TargetType {
 }
 
 # Will let us navigate as things 
-[array]KeyAnswers
+[array]$KeyAnswers
 
 # Will force bail out to quit
-[array]KeyHalter = "q", "Q"
+[array]$KeyHalter = "q", "Q"
 
 # Help function
 function Find-Action($Action) {
