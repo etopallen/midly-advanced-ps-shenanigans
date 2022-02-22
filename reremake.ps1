@@ -1,10 +1,5 @@
 # Let's rewrite it again, and suffer more from it.
 
-< #
-
-
-
-# >
 
 Import-Module ActiveDirectory
 
